@@ -22,8 +22,8 @@ if (nodeArgs[2] == 'my-tweets'){
 } else {
   console.log("No such command!");
   console.log("Try:");
-  console.log(my-tweets);
-  console.log(spotify-this-song);
-  console.log(movie-this);
-  console.log(do-what-it-says);
+  console.log("my-tweets");
+  console.log("spotify-this-song");
+  console.log("movie-this");
+  console.log("do-what-it-says");
 }
